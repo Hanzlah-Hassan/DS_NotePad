@@ -58,8 +58,7 @@ Steps to Compile and Run
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/username/notepad-spellcheck.git
-cd notepad-spellcheck
+git clone https://github.com/Hanzlah-Hassan/DS_NotePad.git
 Compile the program:
 bash
 Copy code
@@ -86,10 +85,6 @@ Copy code
 ├── Queue.h             # Queue implementation for word tracking
 ├── colorPair.h         # Color management for ncurses
 └── README.md           # Project documentation
-Future Improvements
-Add support for highlighting misspelled words in real-time.
-Implement a GUI-based version using libraries like Qt or GTK.
-Expand spell-checking to include grammar suggestions.
 Authors
 Hanzlah Hassan
 BS Artificial Intelligence, FAST University, Pakistan
