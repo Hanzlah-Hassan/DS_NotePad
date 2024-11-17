@@ -1,9 +1,9 @@
 
 Console-Based Notepad Application with Spell-Checking and Dictionary Support
-Overview
+Overview:
 This project implements a console-based notepad application with advanced features such as spell-checking, text manipulation, and file handling. The application uses an AVL Tree for efficient dictionary lookups and supports various text editing functionalities.
 
-Features
+Features:s
 Core Features
 AVL Tree Dictionary: Efficiently stores and searches dictionary words.
 Spell-Checking: Automatically checks the spelling of words upon completion.
@@ -63,10 +63,10 @@ cd notepad-spellcheck
 Compile the program:
 bash
 Copy code
-g++ -o notepad notepad.cpp -lncurses
+g++ -o notepad *.cpp -lncurses
 Run the application:
 bash
-Copy code
+Copy code:
 ./notepad
 Usage Instructions
 Starting the Application
